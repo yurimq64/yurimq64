@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou Yuri Queiroz 👋
 
-<!--
-**yurimq64/yurimq64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um **Desenvolvedor Back-end** apaixonado por construir aplicações server-side robustas e escaláveis.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias & Habilidades
+- **Linguagem:** Java
+- **Cloud:** AWS
+- **Controle de Versão:** Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projeto em Destaque
+- [collections-java-api](https://github.com/yurimq64/collections-java-api): Confira meu projeto favorito, onde exploro coleções avançadas do Java e padrões de API.
+
+## 🌐 Conecte-se comigo
+- [LinkedIn](https://www.linkedin.com/in/yuri-queiroz-1aa334258)
