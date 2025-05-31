@@ -3,7 +3,7 @@
 Sou um **Desenvolvedor Back-end** iniciante!
 
 ## 🚀 Tecnologias e Habilidades
-- **Linguagem:** Java
+- **Linguagens:** Java
 - **Cloud:** AWS
 - **Controle de Versão:** Git e GitHub
 
