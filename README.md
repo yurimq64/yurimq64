@@ -8,7 +8,7 @@ Sou um **Desenvolvedor Back-end** iniciante!
 - **Controle de Versão:** Git e GitHub
 
 ## 🌟 Projeto em Destaque
-- [collections-java-api](https://github.com/yurimq64/collections-java-api): Confira meu projeto favorito, onde exploro as principais coleções do Java.
+- [collections-java-api](https://github.com/yurimq64/collections-java-api): Confira meu projeto favorito, onde eu exploro as principais coleções do Java.
 
 ## 🌐 Conecte-se comigo
 - [LinkedIn](https://www.linkedin.com/in/yuri-queiroz-1aa334258)
