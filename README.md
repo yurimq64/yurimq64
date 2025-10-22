@@ -1,6 +1,6 @@
 # Olá, meu nome é Yuri Queiroz :D
 
-Sou um **Desenvolvedor Backend** com foco no ecossistema **Java**. Minha experiência se concentra na construção de **APIs RESTful** utilizando **Spring Boot** e na integração com bancos de dados como **MySQL**.
+Sou um **Desenvolvedor Backend** em formação, com foco no ecossistema **Java**. Minha experiência se concentra na construção de **APIs RESTful** utilizando **Spring Boot** e na integração com bancos de dados como **MySQL**.
 
 ## 🚀 Tecnologias e Habilidades
 - **Linguagens e Frameworks:** Java, Spring Boot
