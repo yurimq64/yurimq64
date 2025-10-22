@@ -3,10 +3,12 @@
 Sou um **Desenvolvedor Backend** com foco no ecossistema **Java**. Minha experiência se concentra na construção de **APIs RESTful** utilizando **Spring Boot** e na integração com bancos de dados como **MySQL**.
 
 ## 🚀 Tecnologias e Habilidades
-- **Linguagens:** Java
-- **Framework:** Spring Boot
-- **Controle de Versão:** Git e GitHub
-- **Cloud:** AWS
+- **Linguagens e Frameworks:** Java, Spring Boot
+- **Testes:** JUnit, Mockito
+- **Banco de Dados:** MySQL
+- **Ferramentas e Versionamento:** Git e GitHub
+- **Cloud:** Amazon Web Services (AWS)
+- **Modelagem e Metodologias:** UML (Diagramas de Classes, Casos de Uso, Sequência e Atividades), Scrum
 
 ## 🌟 Projetos em Destaque
 - [balanceador-times-api](https://github.com/yurimq64/balanceador-times-api): API REST desenvolvida em Java com Spring Boot e banco de dados MySQL para criação de times esportivos balanceados.
