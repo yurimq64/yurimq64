@@ -1,6 +1,6 @@
 # Olá, meu nome é Yuri Queiroz :D
 
-Sou um **Desenvolvedor Fullstack** em formação, com foco no ecossistema **Java**. Minha experiência se concentra na construção de **APIs RESTful** utilizando **Spring Boot** e na integração com bancos de dados como **MySQL**.
+Sou um **Desenvolvedor Full-Stack** em formação, com experiência na criação de soluções web completas. No backend, meu foco é o ecossistema **Java**, construindo **APIs RESTful** com **Spring Boot**. No frontend, desenvolvo interfaces de usuário dinâmicas utilizando **React** e **JavaScript**, integrando as aplicações com bancos de dados como **MySQL** e **Postgres**.
 
 ## 🚀 Tecnologias
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
@@ -11,10 +11,11 @@ Sou um **Desenvolvedor Fullstack** em formação, com foco no ecossistema **Java
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
 ## 🌟 Projetos em Destaque
-- [Galeria de Tecnologias](https://github.com/yurimq64/projeto-galeria-tecnologias): projeto Full-Stack que consiste em uma API REST de backend com Spring Boot e uma aplicação de frontend em React.
+- [Galeria de Tecnologias](https://github.com/yurimq64/projeto-galeria-tecnologias): Projeto Full-Stack que consiste em uma API REST de backend com Spring Boot e uma aplicação de frontend em React.
 - [API de balanceamento de times esportivos](https://github.com/yurimq64/balanceador-times-api): API REST desenvolvida em Java com Spring Boot e banco de dados MySQL para criação de times esportivos balanceados.
 - [API de Gerenciamento de Universidade](https://github.com/yurimq64/gerenciamento-universidade-api)
 
